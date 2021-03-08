@@ -1,0 +1,18 @@
+.list {
+    list-style-type: none;
+    margin: 0;
+}
+
+.link {
+    font-size: 0.8rem;
+    text-decoration: none;
+    margin: 0 0;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+$pink: #FF9393;
+
+.link:hover {
+    color: $pink;
+}
